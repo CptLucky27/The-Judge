@@ -1,0 +1,12 @@
+﻿base: Rogue
+name: The Judge
+name short: Judge
+nickname: Judge
+
+#Set starting armor
+armor: 0
+
+<loadout>
+        cassey
+        cpt:celestial_fedora
+</loadout>
